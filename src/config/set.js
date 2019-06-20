@@ -1,6 +1,7 @@
 var config = {
 	"prefix": "db!!",
-	"token": "TOKEN AQUI"
+	"token": "TOKEN AQUI",
+	"ownerid": "ID DO DONO"
 }
 
 module.exports = {
